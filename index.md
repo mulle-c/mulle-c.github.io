@@ -16,8 +16,8 @@ Library                                                 | Description
 
 ## mulle-sde support
 
-Library                                                            | Description
--------------------------------------------------------------------|----------------------
-[mulle-c-developer](//github.com/mulle-c/mulle-mulle-c-developer)  | mulle-c developer kit for mulle-sde 
+Library                                                      | Description
+-------------------------------------------------------------|----------------------
+[mulle-c-developer](//github.com/mulle-c/mulle-c-developer)  | mulle-c developer kit for mulle-sde 
 
 
