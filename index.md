@@ -3,8 +3,6 @@
 The mulle-c library collection is written for C11. It only uses
 standard C libraries such as `string` or `stdlib`.
 
-The [mulle-objc](https://mulle-objc.github.io) runtime is based on *mulle-c*.
-
 Library                                                 | Description
 --------------------------------------------------------|----------------------
 [mulle-allocator](//github.com/mulle-c/mulle-allocator) | Flexible C memory allocation scheme
@@ -13,6 +11,8 @@ Library                                                 | Description
 [mulle-container](//github.com/mulle-c/mulle-container) | Sets, hashtables, arrays and more 
 [mulle-utf](//github.com/mulle-c/mulle-utf)             | UTF8-16-32 analysis, conversion, classification library
 [mulle-vararg](//github.com/mulle-c/mulle-vararg)       | Access variable arguments in struct layout fashion in C
+
+The [mulle-objc](https://mulle-objc.github.io) runtime is based on *mulle-c*.
 
 ## mulle-sde support
 
