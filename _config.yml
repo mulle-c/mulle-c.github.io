@@ -1,1 +1,17 @@
 theme: jekyll-theme-minimal
+
+
+title: "mulle-c"
+description: "Pure C libraries (no system calls, no threads, no atomics)"
+logo: 'https://avatars1.githubusercontent.com/u/35930577?s=256'
+show_downloads: false
+
+
+highlighter: rouge
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+enable_coderay: false
