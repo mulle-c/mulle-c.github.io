@@ -9,6 +9,8 @@ Library                                                 | Description
 [mulle-buffer](//github.com/mulle-c/mulle-buffer)       | A growable C char array and also a stream
 [mulle-c11](//github.com/mulle-c/mulle-c11)             | Cross-platform C compiler glue
 [mulle-container](//github.com/mulle-c/mulle-container) | Sets, hashtables, arrays and more 
+[mulle-data](//github.com/mulle-c/mulle-data)           | Hash functions
+[mulle-http](//github.com/mulle-c/mulle-http)           | HTTP parser
 [mulle-unicode](//github.com/mulle-c/mulle-unicode)     | Unicode character classification library
 [mulle-url](//github.com/mulle-c/mulle-url)             | URL components character validation library
 [mulle-utf](//github.com/mulle-c/mulle-utf)             | UTF8-16-32 analysis and conversion library
@@ -18,8 +20,8 @@ The [mulle-objc](//mulle-objc.github.io) runtime is based on *mulle-c*.
 
 ## mulle-sde support
 
-Library                                          | Description
--------------------------------------------------|----------------------
-[mulle-c-developer](//github.com/mulle-c/mulle-c-developer)  | mulle-c developer kit for mulle-sde 
+Library                                                     | Description
+------------------------------------------------------------|----------------------
+[mulle-c-developer](//github.com/mulle-c/mulle-c-developer) | mulle-c developer kit for mulle-sde 
 
 
